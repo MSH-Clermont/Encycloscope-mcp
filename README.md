@@ -189,7 +189,7 @@ Si vous utilisez cet outil dans un travail de recherche, merci de le citer :
   author       = {Blangeois, Morgan},
   title        = {Encycloscope: MCP Server for Exploring the Encyclopédie of Diderot and d'Alembert},
   year         = {2026},
-  url          = {https://github.com/MSH-UCA/Encycloscope-mcp},
+  url          = {https://github.com/MSH-Clermont/Encycloscope-mcp},
   version      = {1.0.0},
   note         = {Uses d'AlemBERT (pjox/dalembert) for semantic search over 18th-century French}
 }
