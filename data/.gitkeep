@@ -1,0 +1,6 @@
+# Ce dossier contient les données de l'Encyclopédie
+# Fichiers attendus:
+# - checkpoint-5048/ : Modèle CamemBERT fine-tuné
+# - encyclopedia_index.pkl : Index NearestNeighbors
+# - encyclopedia_blocks.csv : Métadonnées des blocs
+# - articles.csv : CSV complet des articles (pour réseaux et renvois)
